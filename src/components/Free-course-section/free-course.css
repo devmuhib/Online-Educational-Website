@@ -1,0 +1,26 @@
+.free__course__img {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+}
+
+.free__btn {
+  position: absolute;
+  bottom: -20px;
+  right: 20px;
+  z-index: 999999;
+  padding: 4px 25px !important;
+  font-size: 0.8rem;
+}
+
+.free__course__img img {
+  border-radius: 10px;
+}
+
+.free__course__details h6 {
+  font-weight: 600;
+  line-height: 2rem;
+}

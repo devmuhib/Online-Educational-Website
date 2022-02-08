@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Andada+Pro:wght@400;500;600;700;800&display=swap");
+
+/* =========== base style ========= */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section,
+footer {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 2rem;
+  line-height: 50px;
+  font-family: "Poppins", sans-serif;
+  color: #0a2b1e;
+  font-weight: 600;
+}
+
+p {
+  color: #596b65;
+  font-size: 1rem;
+  line-height: 35px;
+  font-family: "Andada Pro", serif;
+  font-weight: 400;
+}
+
+button.btn {
+  background: #17bf9e;
+  color: #fff;
+  padding: 7px 25px;
+  border-radius: 50px;
+}
+
+i {
+  color: #17bf9e;
+}
